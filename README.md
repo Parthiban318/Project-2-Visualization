@@ -1,2 +1,2 @@
-# Project-2-Data-Visualization
+# Project-p
 Phonepe Pulse Data Visualization and Exploration
