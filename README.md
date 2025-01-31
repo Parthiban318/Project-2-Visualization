@@ -1,2 +1,2 @@
-# MDE85-Project-2-PhonePe-Data-Visualization
+# Project-2-Data-Visualization
 Phonepe Pulse Data Visualization and Exploration
